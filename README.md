@@ -1,10 +1,11 @@
 # CWP-Node.js
 CWP Node.js Installer
-https://www.born2host.com
+#original from born2host
+
 
 CWP Node.js Installer
 
-This installer lets you choose Node.js version 6 or 8 and then install it on your server. 
+This installer lets you choose Node.js version 6 or 8 or 10 and then install it on your server. 
 
 When you need to update Node.js it\`s done by "yum -y update".
 
